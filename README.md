@@ -5,7 +5,8 @@
 
 ## <div align='center'> :gem: I AM :gem: </div>
 
-##### <div align='center'>Hi :raised_hands: <br /> 꾸준하게 발전하고자 노력하는 <br /> 개발새내기 `설윤주` 입니다.</div>
+<!-- ##### <div align='center'>Hi :raised_hands: <br /> 꾸준하게 발전하고자 노력하는 <br /> 개발새내기 `설윤주` 입니다.</div> -->
+##### <div align='center'>Hi :raised_hands: <br /> 꾸준하게 발전하고자 노력하는 <br /> 개발새내기 입니다.</div>
 <!-- <div align='center'> 
 
 
