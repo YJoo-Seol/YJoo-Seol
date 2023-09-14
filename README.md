@@ -44,7 +44,7 @@
 
 ##### <div align='center'>
   <a href='mailto:7518seol@gmail.com'>
-    <img src="https://img.shields.io/badge/ GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"&link=mailto:7518@gmail.com/> 
+    <img src="https://img.shields.io/badge/ GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"&link=mailto:7518seol@gmail.com/> 
   </a>
   </div>
 
